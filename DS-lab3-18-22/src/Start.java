@@ -5,7 +5,7 @@ public class Start {
 
 	public static void main(String[] args) {
 
-		final Configuration config = new Configuration("/lab_3/config.txt");
+		final Configuration config = new Configuration("/tmp/DS-3/DS-lab3-18-22/config.txt");
 
 		// run the servers
 		Runnable r = new Runnable() {
