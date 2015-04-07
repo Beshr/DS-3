@@ -1,0 +1,8 @@
+RW.server=100.74.194.21
+RW.server.port=1099
+RW.numberOfReaders= 2
+RW.reader0=DS-18-22-01@nctest1.cloudapp.net,55037
+RW.reader0=DS-18-22-01@nctest1.cloudapp.net,55037
+RW.numberOfWriters=1
+RW.reader0=DS-18-22-01@nctest1.cloudapp.net,55037
+RW.numberOfAccesses= 3
